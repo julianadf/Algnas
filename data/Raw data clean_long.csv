@@ -1,0 +1,442 @@
+ID_plt;ID#;ID;Point digging;Längd;Bredd innerslänt;Bredd ytterslänt;Area;Färg;Djup cm;Faktiskt djup cm;Digging.depth;Uneven digging depth;Year;Seedlings.inside;Big.inside;Small.inside;Big.outside.l;Small.outside.l;Big.outside.b;Small.outside.b;Big.outside.u;Small.outside.u;Total.big.outside;Datum inventering ;Inventerare 2023;Kommentar;;Surroundings;Orientation
+3;;3;Yes;100;100;100;2;Grön;20;20-25;22,5;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;West
+4;;4;Yes;100;100;100;2;Grön;20;25;25;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;West
+5;;5;No;830;100;400;41,5;Blå;10;15-okt;12,5;No;2023;449;0;0;1;18;1;7;100;;102;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Stort tätt bestånd direkt utanför;;Garden;East
+7;A;7A;No;510;200;300;25,5;Blå;10;17-okt;13,5;No;2023;2;0;0;3;0;0;4;1;0;4;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Agricultural;East
+7;B;7B;No;360;200;400;21,6;Grön;20;20;20;No;2023;0;0;0;3;2;0;0;0;0;3;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Agricultural;East
+8;A;8A;No;400;200;200;16;Grön;20;18;18;Yes;2023;4;0;0;0;0;0;1;20;11;20;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+8;C;8C;No;500;200;140;17;Blå;10;12;12;No;2023;0;0;0;0;0;0;0;1;0;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+8;D;8D;No;470;200;150;16,45;Grön;20;20;20;No;2023;0;0;0;;;0;1;2;1;2;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd. Markägaren har plockat vuxna med blomställning bort. Hela 8D till 8I.;;Garden;East
+8;E;8E;No;570;200;150;19,95;Rosa;30;30;30;No;2023;2;0;0;;;0;0;2;2;2;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd. Markägaren har plockat vuxna med blomställning bort. Hela 8D till 8I.;;Garden;East
+8;F;8F;No;500;200;150;17,5;Blå;10;15;15;No;2023;0;0;0;;;0;0;12;3;12;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd. Markägaren har plockat vuxna med blomställning bort. Hela 8D till 8I.;;Garden;East
+8;G;8G;No;500;200;150;17,5;Grön;20;20;20;Yes;2023;0;0;0;;;0;0;11;5;11;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd. Markägaren har plockat vuxna med blomställning bort. Hela 8D till 8I.;;Garden;East
+8;H;8H;No;500;200;150;17,5;Rosa;30;30;30;No;2023;0;0;0;;;0;0;6;2;6;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd. Markägaren har plockat vuxna med blomställning bort. Hela 8D till 8I.;;Garden;East
+8;I;8I;No;270;100;100;5,4;Blå;10;12;12;No;2023;5;0;0;2;3;0;0;5;2;7;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd. Markägaren har plockat vuxna med blomställning bort. Hela 8D till 8I.;;Garden;East
+9;;9;No;860;100;300;34,4;Rosa;30;30;30;No;2023;2;0;0;0;0;0;0;50;5;50;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Svårt att räkna utanför. 50 ungefär;;Agricultural;West
+10;A;10A;No;450;200;200;18;Rosa;30;30;30;No;2023;17;0;0;0;3;0;0;5;2;5;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Delen som går in tomten hade de flesta plantor;;Garden;East
+10;B;10B;No;300;200;100;9;Blå;10;14;14;No;2023;0;0;0;;;0;0;15;;15;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+11;;11;Yes;100;100;100;2;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;1;0;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Punktgrävning. Ett hål.;;Agricultural;West
+12;B;12B;No;570;230;300;30,21;Blå;10;10;10;No;2023;0;0;0;1;6;0;0;20;4;21;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Agricultural;West
+12;C;12C;No;570;200;500;39,9;Rosa;30;28;28;No;2023;1;0;0;0;0;0;0;1;1;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Agricultural;West
+12;E;12E;No;560;160;240;22,4;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;6;4;6;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Agricultural;West
+13;A;13A;No;610;200;220;25,62;Blå;10;10;10;No;2023;1;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden/Forest;East
+13;B;13B;No;620;200;200;24,8;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;1;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden/Forest;East
+13;F;13F;No;540;210;310;28,08;Rosa;30;30;30;Yes;2023;2;0;0;0;0;0;0;1;0;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden/Forest;East
+13;G;13G;No;500;210;310;26;Blå;10;10;10;Yes;2023;0;0;0;;;0;0;1;0;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden/Forest;East
+13;H;13H;No;740;210;310;38,48;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;1;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden/Forest;East
+14;;14;No;580;170;140;17,98;Blå;10;10;10;No;2023;0;0;0;0;1;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+15;;15;No;280;120;100;6,16;Rosa;30;27;27;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+18;;18;Yes;280;130;80;5,88;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;A;19A;No;500;240;110;17,5;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;B;19B;No;320;240;180;13,44;Grön;20;20;20;No;2023;0;0;0;1;0;0;0;0;0;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;D;19D;No;530;230;100;17,49;Grön;20;20;20;No;2023;0;0;0;0;1;0;1;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;E;19E;No;640;230;110;21,76;Rosa;30;30;30;No;2023;1;0;0;0;0;0;0;0;1;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;G;19G;No;700;170;150;22,4;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;J;19J;No;630;170;200;23,31;Blå;10;10;10;No;2023;0;0;0;0;3;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;K;19K;No;460;170;170;15,64;Grön;20;20;20;No;2023;0;0;0;;;0;0;0;1;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+19;L;19L;No;620;170;230;24,8;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+19;M;19M;Yes;100;50;50;1;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+20;;20;Yes;200;50;50;2;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+21;;21;Yes;290;0;130;3,77;Blå;10;10;10;No;2023;0;0;0;0;2;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+22;;22;Yes;190;100;;1,9;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+24;;24;No;770;140;150;22,33;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+25;;25;Yes;100;100;;1;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;Samma som ID101. Grävdjup oklart (10 el 20 cm);Forest;East
+26;;26;Yes;100;100;;1;Blå;10;10;10;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;Samma som ID102? Grävdjup oklart, ID oklar. ;Forest;East
+27;A;27A;Yes;100;100;0;1;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+27;B;27B;No;360;150;120;9,72;Rosa;30;30;30;Yes;2023;0;0;0;0;3;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+27;C;27C;No;500;150;110;13;Blå;10;10;10;Yes;2023;5;0;0;1;15;0;0;0;1;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+28;A;28A;No;450;220;100;14,4;Rosa;30;30;30;Yes;2023;0;0;0;2;5;0;0;0;3;2;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+28;B;28B;No;540;220;100;17,28;Blå;10;10;10;No;2023;0;0;0;;;0;0;3;11;3;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+28;C;28C;No;590;220;100;18,88;Grön;20;20;20;No;2023;144;0;0;;;0;0;30;;30;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+28;D;28D;No;350;220;100;11,2;Rosa;30;30;30;No;2023;101;0;0;;;0;0;40;;40;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+28;E;28E;No;440;220;100;14,08;Blå;10;10;10;No;2023;185;0;0;0;3;0;0;38;;38;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+29;A;29A;No;550;180;230;22,55;Blå;10;15;15;No;2023;1;0;0;0;0;0;0;0;2;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;West
+29;B;29B;No;460;180;410;27,14;Grön;20;25;25;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;West
+29;C;29C;No;500;180;410;29,5;Rosa;30;35;35;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;West
+29;D;29D;No;520;180;410;30,68;Blå;10;10;10;No;2023;0;0;0;;;0;0;1;1;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;West
+29;E;29E;No;530;180;410;31,27;Rosa;30;30;30;No;2023;0;0;0;;;0;0;4;0;4;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;West
+29;F;29F;No;480;180;410;28,32;Grön;20;20;20;No;2023;0;0;1;;;0;0;0;2;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;West
+29;G;29G;No;470;180;270;21,15;Blå;10;10;10;No;2023;0;0;0;1;0;0;0;2;2;3;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;West
+30;A;30A;No;600;270;200;28,2;Grön;20;20-25;22,5;No;2023;204;0;0;1;6;0;0;100;;101;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+30;B;30B;No;440;270;200;20,68;Blå;10;10;10;No;2023;620;0;0;;;0;0;100;;100;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+30;C;30C;No;450;270;200;21,15;Grön;20;20;20;No;2023;493;0;0;;;0;0;100;;100;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+30;D;30D;No;450;270;200;21,15;Rosa;30;30;30;No;2023;119;0;0;;;0;0;50;;50;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+30;E;30E;No;330;270;200;15,51;Blå;10;10;10;No;2023;3;0;0;2;3;0;0;10;5;12;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+31;A;31A;No;500;250;200;22,5;Grön;20;20;20;No;2023;0;0;0;1;2;0;0;0;0;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Agricultural;East
+31;B;31B;No;550;250;200;24,75;Rosa;30;35;35;No;2023;0;0;0;;;0;0;2;5;2;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Agricultural;East
+31;C;31C;No;500;250;200;22,5;Blå;10;25;25;No;2023;0;0;0;;;0;0;2;3;2;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Agricultural;East
+31;D;31D;No;370;400;200;22,2;Grön;20;25;25;No;2023;0;0;0;;;0;0;1;1;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Agricultural;East
+31;E;31E;No;610;220;170;23,79;Rosa;30;40;40;No;2023;0;0;0;;;0;0;3;0;3;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Agricultural;East
+31;F;31F;No;520;220;170;20,28;Blå;10;10;10;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Agricultural;East
+31;G;31G;No;440;220;260;21,12;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Agricultural;East
+32;A;32A;No;470;140;120;12,22;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+32;B;32B;No;470;140;120;12,22;Grön;20;20;20;Yes;2023;0;0;0;;;0;1;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+32;C;32C;No;500;170;150;16;Blå;10;15;15;No;2023;0;0;0;;;0;0;3;5;3;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+32;D;32D;No;480;170;150;15,36;Rosa;30;40;40;No;2023;0;0;0;;;0;0;3;1;3;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+32;E;32E;No;490;170;150;15,68;Grön;20;25;25;No;2023;0;0;0;;;0;0;0;1;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+32;F;32F;No;500;170;150;16;Blå;10;15;15;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+32;G;32G;No;510;170;220;19,89;Rosa;30;35;35;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+32;H;32H;No;500;170;280;22,5;Grön;20;20;20;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+33;A;33A;No;480;170;280;21,6;Blå;10;10;10;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+33;B;33B;No;470;170;280;21,15;Grön;20;20;20;No;2023;0;0;0;;;0;0;4;2;4;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+33;C;33C;No;430;170;250;18,06;Rosa;30;35;35;No;2023;0;0;0;3;4;0;0;4;2;7;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+35;A;35A;No;450;230;230;20,7;Grön;20;20;20;No;2023;149;0;0;0;0;0;0;15;3;15;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden/Forest;East
+35;B;35B;No;460;230;230;21,16;Rosa;30;40;40;No;2023;269;0;0;;;0;0;50;;50;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden/Forest;East
+35;C;35C;No;520;230;230;23,92;Blå;10;15;15;No;2023;16;0;0;;;0;0;5;1;5;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden/Forest;East
+35;D;35D;No;510;230;230;23,46;Grön;20;25;25;No;2023;1;0;0;;;0;0;1;2;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden/Forest;East
+35;E;35E;No;730;230;190;30,66;Rosa;30;35;35;No;2023;0;0;0;0;0;0;0;1;0;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden/Forest;East
+37;D;37D;No;490;250;160;20,09;Blå;10;10;10;No;2023;0;0;0;0;0;0;0;30;;30;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+37;E;37E;No;990;250;70;31,68;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;1;2;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+39;;39;No;490;210;160;18,13;Rosa;30;30;30;No;2023;4;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+40;;40;No;930;190;200;36,27;Grön;20;25;25;No;2023;0;0;1;;;0;0;30;0;30;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Garden;East
+41;A;41A;No;500;150;300;22,5;Rosa;30;30;30;No;2023;0;0;0;;;0;0;5;5;5;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+41;B;41B;No;500;150;300;22,5;Blå;10;10;10;No;2023;19;0;0;;;0;7;4;2;4;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+41;C;41C;No;550;150;330;26,4;Grön;20;15;15;No;2023;0;0;0;;;0;1;0;1;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+41;D;41D;No;550;150;250;22;Rosa;30;30;30;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;41 alla hade problem med att de hade en kabel så grävdjupet är inte samma i samma ytan.;Forest;East
+41;E;41E;No;500;150;250;20;Blå;10;10;10;No;2023;0;0;0;;;0;0;1;1;1;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+41;F;41F;No;440;150;250;17,6;Grön;20;25;25;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+41;G;41G;No;520;150;250;20,8;Rosa;30;30;30;No;2023;0;0;0;;;0;0;0;1;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+41;H;41H;No;430;150;260;17,63;Blå;10;10;10;No;2023;0;0;0;;;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;Går inte att ha plantor i längd.;;Forest;East
+41;I;41I;No;410;150;260;16,81;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;J;41J;No;470;150;260;19,27;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-19;Juliana Daniel-Ferreira, J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;L;41L;No;520;150;250;20,8;Grön;20;20;20;No;2023;0;0;0;0;1;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;M;41M;No;470;150;250;18,8;Rosa;30;35;35;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;N;41N;No;460;150;140;13,34;Blå;10;15;15;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;O;41O;No;520;150;240;20,28;Grön;20;20;20;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;P;41P;No;500;150;240;19,5;Rosa;30;30;30;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;Q;41Q;No;460;150;240;17,94;Blå;10;10;10;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;R;41R;No;530;150;220;19,61;Grön;20;25;25;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;S;41S;No;460;150;220;17,02;Rosa;30;40;40;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;U;41U;No;490;150;200;17,15;Grön;20;20;20;No;2023;0;0;0;0;1;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+41;Z;41Z;Yes;160;150;90;3,84;Blå;10;10;10;No;2023;0;0;0;1;2;0;0;0;0;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+42;B;42B;Yes;140;120;;1,68;Grön;10;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;grävdes endast till 10 cm pga kabel;;Garden;East
+42;C;42C;No;500;120;80;10;Rosa;30;25;25;No;2023;0;0;0;0;0;0;0;0;3;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+42;D;42D;No;500;210;300;25,5;Blå;10;10;10;No;2023;6;0;0;;;0;0;10;;10;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+42;E;42E;No;520;210;300;26,52;Grön;20;20;20;No;2023;0;0;2;;;0;0;2;1;2;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+42;F;42F;No;500;210;280;24,5;Rosa;30;30;30;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+42;G;42G;No;480;230;230;22,08;Blå;10;15;15;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+42;H;42H;No;570;240;230;26,79;Grön;20;25;25;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+42;I;42I;No;520;220;260;24,96;Rosa;30;30;30;No;2023;0;0;1;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;lupinen växer precis vid en sten, kunde troligen inte utgrävas lika djupt;;Garden;East
+42;J;42J;No;450;220;220;19,8;Blå;10;10;10;No;2023;0;0;0;;;0;1;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+42;K;42K;No;810;220;240;37,26;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+44;A;44A;No;370;200;230;15,91;Grön;20;20;20;No;2023;0;0;0;1;5;0;0;0;5;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+44;B;44B;No;450;200;270;21,15;Blå;10;15;15;No;2023;0;0;0;;;0;0;1;12;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+44;C;44C;No;440;200;270;20,68;Rosa;30;30;30;No;2023;4;0;0;;;0;0;0;5;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;alla hjärtblad funna vad precis i utkanten, oklart ifall 30 cm har använts precis där;;Garden;East
+44;D;44D;No;490;200;300;24,5;Grön;20;25;25;No;2023;0;0;0;;;0;0;0;4;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+44;E;44E;No;570;;450;25,65;Blå;10;15;15;No;2023;0;0;0;0;0;0;0;0;1;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;ytan triangelformad;;Garden;East
+45;B;45B;No;370;60;270;12,21;Grön;20;20;20;No;2023;0;0;0;0;0;0;0;1;0;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;West
+45;C;45C;Yes;420;60;330;16,38;Rosa;30;35;35;No;2023;0;0;0;0;0;1;0;0;0;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;West
+46;B;46B;No;440;220;240;20,24;Blå;10;15;15;No;2023;0;0;0;0;0;1;0;0;3;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+46;C;46C;No;460;220;240;21,16;Grön;20;25;25;No;2023;0;0;0;;;0;0;1;1;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+46;D;46D;No;490;220;240;22,54;Rosa;30;35;35;No;2023;0;0;0;;;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+46;E;46E;No;580;220;240;26,68;Blå;10;15;15;No;2023;0;0;1;;;1;0;0;2;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+46;F;46F;No;470;220;240;21,62;Grön;20;25;25;No;2023;0;0;0;;;0;1;0;2;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+46;G;46G;No;480;220;250;22,56;Rosa;30;35;35;No;2023;4;0;0;;;0;1;0;2;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+46;H;46H;No;580;220;250;27,26;Blå;10;10;10;No;2023;2;0;0;1;3;0;0;0;2;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+47;;47;No;1400;220;220;61,6;Rosa;30;35;35;No;2023;23;0;0;0;2;0;0;2;2;2;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+102;;102;Yes;120;;130;1,56;Grön;20;;20;No;2023;0;0;0;1;3;0;0;0;0;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+48;;48;No;810;200;260;37,26;Blå;10;25;25;No;2023;0;0;;15;10;0;0;20;;35;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+49;A;49A;Yes;170;70;130;3,4;Grön;20;20;20;No;2023;0;0;0;4;1;0;0;3;6;7;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;Hela 49 svårutredd, bör kanske strykas.;Forest;East
+49;B;49B;Yes;210;110;110;4,62;Grön;20;20;20;No;2023;0;0;0;1;4;0;0;0;2;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+50;;50;Yes;180;90;90;3,24;Blå;10;10?;10;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+51;;51;Yes;170;;190;3,23;Blå;10;10?;10;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;West
+52;A;52A;No;450;200;220;18,9;Rosa;30;25;25;No;2023;0;0;0;0;1;0;0;1;0;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+52;B;52B;Yes;170;160;;2,72;Blå;10;10;10;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+53;A;53A;No;440;210;220;18,92;Rosa;30;30;30;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+53;B;53B;No;700;210;220;30,1;Blå;10;10;10;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Garden;East
+53;C;53C;No;180;90;90;3,24;Grön;20;20;20;No;2023;0;0;0;1;0;0;0;0;0;1;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;Även betecknad 103;Garden;East
+54;;54;No;380;170;260;16,34;Blå;10;10;10;No;2023;0;0;0;0;0;0;0;0;0;0;2023-06-20;J-O Helldin, Izabel Eriksson, Andreas Ekman;;;Forest;East
+3;;3;Yes;100;100;100;2;Grön;20;20-25;22,5;No;2022;;1;0;;;;;;;;2022-06-13;;Punktgräv;;;
+4;;4;Yes;100;100;100;2;Grön;20;25;25;No;2022;;1;0;;;;;;;;2022-06-13;;Punktgräv;;;
+5;;5;No;830;100;400;41,5;Blå;10;15-okt;12,5;No;2022;;10;13;;;;;;;;2022-06-13;;Brunnslock, stort bestånd bakom på tomt. ;;;
+7;A;7A;No;510;200;300;25,5;Blå;10;17-okt;13,5;No;2022;;11;46;;;;;;;;2022-06-13;;;;;
+7;B;7B;No;360;200;400;21,6;Grön;20;20;20;No;2022;;13;23;;;;;;;;2022-06-13;;;;;
+8;A;8A;No;400;200;200;16;Grön;20;18;18;Yes;2022;;9;12;;;;;;;;2022-06-13;;<6m vänster om elskåpet finns 15 stora individer. ;;;
+8;C;8C;No;500;200;140;17;Blå;10;12;12;No;2022;;12;6;;;;;;;;2022-06-13;;;;;
+8;D;8D;No;470;200;150;16,45;Grön;20;20;20;No;2022;;20;30;;;;;;;;2022-06-13;;Osäker bredd;;;
+8;E;8E;No;570;200;150;19,95;Rosa;30;30;30;No;2022;;23;33;;;;;;;;2022-06-13;;Bestånd in på tomtgräns;Kvinnan klipper blomstängslar;;
+8;F;8F;No;500;200;150;17,5;Blå;10;15;15;No;2022;;26;44;;;;;;;;2022-06-13;;Sten i diket vänster sett från vägen. ;;;
+8;G;8G;No;500;200;150;17,5;Grön;20;20;20;Yes;2022;;16;32;;;;;;;;2022-06-13;;Bestånd fortsätter i trädgård;;;
+8;H;8H;No;500;200;150;17,5;Rosa;30;30;30;No;2022;;20;15;;;;;;;;2022-06-13;;Bestånd fortsätter i trädgård;;;
+8;I;8I;No;270;100;100;5,4;Blå;10;12;12;No;2022;;2;19;;;;;;;;2022-06-13;;Bestånd fortsätter i trädgård;;;
+9;;9;No;860;100;300;34,4;Rosa;30;30;30;No;2022;;40;63;;;;;;;;2022-06-13;;Två björkar bak i rutan. Stort bestånd bakom rutan. ;;;
+10;A;10A;No;450;200;200;18;Rosa;30;30;30;No;2022;;18;17;;;;;;;;2022-06-13;;;;;
+10;B;10B;No;300;200;100;9;Blå;10;14;14;No;2022;;13;10;;;;;;;;2022-06-13;;;;;
+11;;11;Yes;100;100;100;2;Rosa;30;30;30;No;2022;;1;0;;;;;;;;2022-06-13;;Punktgräv;;;
+12;B;12B;No;570;230;300;30,21;Blå;10;10;10;No;2022;;17;16;;;;;;;;2022-06-13;;;;;
+12;C;12C;No;570;200;500;39,9;Rosa;30;28;28;No;2022;;3;3;;;;;;;;2022-06-13;;;;;
+12;E;12E;No;560;160;240;22,4;Rosa;30;30;30;No;2022;;18;13;;;;;;;;2022-06-13;;;;;
+13;A;13A;No;610;200;220;25,62;Blå;10;10;10;No;2022;;13;9;;;;;;;;2022-06-13;;;;;
+13;B;13B;No;620;200;200;24,8;Grön;20;20;20;No;2022;;2;0;;;;;;;;2022-06-13;;;;;
+13;F;13F;No;540;210;310;28,08;Rosa;30;30;30;Yes;2022;;14;10;;;;;;;;2022-06-13;;;;;
+13;G;13G;No;500;210;310;26;Blå;10;10;10;Yes;2022;;28;24;;;;;;;;2022-06-13;;;;;
+13;H;13H;No;740;210;310;38,48;Grön;20;20;20;No;2022;;18;17;;;;;;;;2022-06-13;;;;;
+14;;14;No;580;170;140;17,98;Blå;10;10;10;No;2022;;13;9;;;;;;;;2022-06-13;;;;;
+15;;15;No;280;120;100;6,16;Rosa;30;27;27;No;2022;;1;15;;;;;;;;2022-06-13;;Punktgräv, med fler små åt vänster. ;;;
+18;;18;Yes;280;130;80;5,88;Grön;20;20;20;No;2022;;2;0;;;;;;;;2022-06-13;;Punktgräv;;;
+19;A;19A;No;500;240;110;17,5;Rosa;30;30;30;No;2022;;1;12;;;;;;;;2022-06-13;;;;;
+19;B;19B;No;320;240;180;13,44;Grön;20;20;20;No;2022;;2;30;;;;;;;;2022-06-13;;;;;
+19;D;19D;No;530;230;100;17,49;Grön;20;20;20;No;2022;;3;1;;;;;;;;2022-06-13;;;;;
+19;E;19E;No;640;230;110;21,76;Rosa;30;30;30;No;2022;;14;20;;;;;;;;2022-06-13;;;;;
+19;G;19G;No;700;170;150;22,4;Grön;20;20;20;No;2022;;3;6;;;;;;;;2022-06-13;;;;;
+19;J;19J;No;630;170;200;23,31;Blå;10;10;10;No;2022;;19;31;;;;;;;;2022-06-13;;;;;
+19;K;19K;No;460;170;170;15,64;Grön;20;20;20;No;2022;;17;13;;;;;;;;2022-06-13;;;;;
+19;L;19L;No;620;170;230;24,8;Rosa;30;30;30;No;2022;;26;21;;;;;;;;2022-06-13;;;;;
+19;M;19M;Yes;100;50;50;1;Grön;20;20;20;No;2022;;2;0;;;;;;;;2022-06-13;;Punktgräv;;;
+20;;20;Yes;200;50;50;2;Grön;20;20;20;No;2022;;1;0;;;;;;;;2022-06-13;;Punktgräv;;;
+21;;21;Yes;290;0;130;3,77;Blå;10;10;10;No;2022;;2;2;;;;;;;;2022-06-13;;Punktgräv;;;
+22;;22;Yes;190;100;;1,9;Rosa;30;30;30;No;2022;;1;0;;;;;;;;2022-06-13;;Punktgräv;;;
+24;;24;No;770;140;150;22,33;Rosa;30;30;30;No;2022;;2;1;;;;;;;;2022-06-13;;;;;
+25;;25;Yes;100;100;;1;Grön;20;20;20;No;2022;;1;0;;;;;;;;2022-06-13;;Bytt till blå (ej på karta), nytt ID 101;;;
+26;;26;Yes;100;100;;1;Blå;10;10;10;No;2022;;1;0;;;;;;;;2022-06-13;;Punktgräv ca 1x1 m;;;
+27;A;27A;Yes;100;100;0;1;Grön;20;20;20;No;2022;;1;0;;;;;;;;2022-06-13;;Bytt till punktgrävning.;;;
+27;B;27B;No;360;150;120;9,72;Rosa;30;30;30;Yes;2022;;4;8;;;;;;;;2022-06-13;;;;;
+27;C;27C;No;500;150;110;13;Blå;10;10;10;Yes;2022;;19;38;;;;;;;;2022-06-13;;Hinder bakom och högerom ruta, stenmur samt pelare. ;;;
+28;A;28A;No;450;220;100;14,4;Rosa;30;30;30;Yes;2022;;13;18;;;;;;;;2022-06-14;;2 stora på/bakom mur. ;;;
+28;B;28B;No;540;220;100;17,28;Blå;10;10;10;No;2022;;34;41;;;;;;;;2022-06-14;;2 stora på tomt.;;;
+28;C;28C;No;590;220;100;18,88;Grön;20;20;20;No;2022;;36;50;;;;;;;;2022-06-14;;Stort bestånd bakom på tomt. ;;;
+28;D;28D;No;350;220;100;11,2;Rosa;30;30;30;No;2022;;22;66;;;;;;;;2022-06-14;;Stort bestånd bakom på tomt. ;;;
+28;E;28E;No;440;220;100;14,08;Blå;10;10;10;No;2022;;33;56;;;;;;;;2022-06-14;;Stort bestånd bakom på tomt. ;;;
+29;A;29A;No;550;180;230;22,55;Blå;10;15;15;No;2022;;7;26;;;;;;;;2022-06-14;;;;;
+29;B;29B;No;460;180;410;27,14;Grön;20;25;25;No;2022;;16;105;;;;;;;;2022-06-14;;;;;
+29;C;29C;No;500;180;410;29,5;Rosa;30;35;35;No;2022;;3;13;;;;;;;;2022-06-14;;;;;
+29;D;29D;No;520;180;410;30,68;Blå;10;10;10;No;2022;;5;3;;;;;;;;2022-06-14;;;;;
+29;E;29E;No;530;180;410;31,27;Rosa;30;30;30;No;2022;;16;10;;;;;;;;2022-06-14;;;;;
+29;F;29F;No;480;180;410;28,32;Grön;20;20;20;No;2022;;18;5;;;;;;;;2022-06-14;;Tillagd.;;;
+29;G;29G;No;470;180;270;21,15;Blå;10;10;10;No;2022;;8;2;;;;;;;;2022-06-14;;Tillagd.;;;
+30;A;30A;No;600;270;200;28,2;Grön;20;20-25;22,5;No;2022;;45;56;;;;;;;;2022-06-14;;Stort bestånd bakom på tomt. ;;;
+30;B;30B;No;440;270;200;20,68;Blå;10;10;10;No;2022;;21;77;;;;;;;;2022-06-14;;Stort bestånd bakom på tomt. ;;;
+30;C;30C;No;450;270;200;21,15;Grön;20;20;20;No;2022;;15;37;;;;;;;;2022-06-14;;Stort bestånd bakom på tomt. ;;;
+30;D;30D;No;450;270;200;21,15;Rosa;30;30;30;No;2022;;10;13;;;;;;;;2022-06-14;;Några stora <6m in på tomt.;;;
+30;E;30E;No;330;270;200;15,51;Blå;10;10;10;No;2022;;1;6;;;;;;;;2022-06-14;;;;;
+31;A;31A;No;500;250;200;22,5;Grön;20;20;20;No;2022;;12;17;;;;;;;;2022-06-14;;;;;
+31;B;31B;No;550;250;200;24,75;Rosa;30;35;35;No;2022;;5;14;;;;;;;;2022-06-14;;;;;
+31;C;31C;No;500;250;200;22,5;Blå;10;25;25;No;2022;;13;19;;;;;;;;2022-06-14;;;;;
+31;D;31D;No;370;400;200;22,2;Grön;20;25;25;No;2022;;15;28;;;;;;;;2022-06-14;;;;;
+31;E;31E;No;610;220;170;23,79;Rosa;30;40;40;No;2022;;25;60;;;;;;;;2022-06-14;;;;;
+31;F;31F;No;520;220;170;20,28;Blå;10;10;10;No;2022;;14;36;;;;;;;;2022-06-14;;;;;
+31;G;31G;No;440;220;260;21,12;Rosa;30;30;30;No;2022;;5;4;;;;;;;;2022-06-14;;;;;
+32;A;32A;No;470;140;120;12,22;Rosa;30;30;30;No;2022;;7;3;;;;;;;;2022-06-14;;;;;
+32;B;32B;No;470;140;120;12,22;Grön;20;20;20;Yes;2022;;5;4;;;;;;;;2022-06-14;;;;;
+32;C;32C;No;500;170;150;16;Blå;10;15;15;No;2022;;6;16;;;;;;;;2022-06-14;;;;;
+32;D;32D;No;480;170;150;15,36;Rosa;30;40;40;No;2022;;6;15;;;;;;;;2022-06-14;;;;;
+32;E;32E;No;490;170;150;15,68;Grön;20;25;25;No;2022;;9;6;;;;;;;;2022-06-14;;;;;
+32;F;32F;No;500;170;150;16;Blå;10;15;15;No;2022;;11;5;;;;;;;;2022-06-14;;;;;
+32;G;32G;No;510;170;220;19,89;Rosa;30;35;35;No;2022;;6;11;;;;;;;;2022-06-14;;;;;
+32;H;32H;No;500;170;280;22,5;Grön;20;20;20;No;2022;;3;4;;;;;;;;2022-06-14;;;;;
+33;A;33A;No;480;170;280;21,6;Blå;10;10;10;No;2022;;28;14;;;;;;;;2022-06-14;;;;;
+33;B;33B;No;470;170;280;21,15;Grön;20;20;20;No;2022;;33;32;;;;;;;;2022-06-14;;Några bakom, på tomt.;;;
+33;C;33C;No;430;170;250;18,06;Rosa;30;35;35;No;2022;;25;27;;;;;;;;2022-06-14;;Några bakom, på tomt.;;;
+35;A;35A;No;450;230;230;20,7;Grön;20;20;20;No;2022;;39;20;;;;;;;;2022-06-15;;Start oklar, pinne låg ned.;;;
+35;B;35B;No;460;230;230;21,16;Rosa;30;40;40;No;2022;;28;15;;;;;;;;2022-06-15;;Bestånd forstätter i trädgård.;;;
+35;C;35C;No;520;230;230;23,92;Blå;10;15;15;No;2022;;18;10;;;;;;;;2022-06-15;;;;;
+35;D;35D;No;510;230;230;23,46;Grön;20;25;25;No;2022;;1;4;;;;;;;;2022-06-15;;;;;
+35;E;35E;No;730;230;190;30,66;Rosa;30;35;35;No;2022;;4;3;;;;;;;;2022-06-15;;1 st bakom.;;;
+37;D;37D;No;490;250;160;20,09;Blå;10;10;10;No;2022;;19;7;;;;;;;;2022-06-15;;Gran i bakre del av rutan.;;;
+37;E;37E;No;990;250;70;31,68;Rosa;30;30;30;No;2022;;12;5;;;;;;;;2022-06-15;;Bestånd på tomt, runt brunnslock.;;;
+39;;39;No;490;210;160;18,13;Rosa;30;30;30;No;2022;;9;4;;;;;;;;2022-06-15;;;;;
+40;;40;No;930;190;200;36,27;Grön;20;25;25;No;2022;;55;11;;;;;;;;2022-06-15;;Högt gräs runtom, svårt att skilja individer åt.;;;
+41;A;41A;No;500;150;300;22,5;Rosa;30;30;30;No;2022;;26;18;;;;;;;;2022-06-15;;;;;
+41;B;41B;No;500;150;300;22,5;Blå;10;10;10;No;2022;;33;16;;;;;;;;2022-06-15;;;;;
+41;C;41C;No;550;150;330;26,4;Grön;20;15;15;No;2022;;28;19;;;;;;;;2022-06-15;;;;;
+41;D;41D;No;550;150;250;22;Rosa;30;30;30;No;2022;;10;8;;;;;;;;2022-06-15;;;;;
+41;E;41E;No;500;150;250;20;Blå;10;10;10;No;2022;;4;5;;;;;;;;2022-06-15;;;;;
+41;F;41F;No;440;150;250;17,6;Grön;20;25;25;No;2022;;5;3;;;;;;;;2022-06-15;;;;;
+41;G;41G;No;520;150;250;20,8;Rosa;30;30;30;No;2022;;7;3;;;;;;;;2022-06-15;;;;;
+41;H;41H;No;430;150;260;17,63;Blå;10;10;10;No;2022;;6;7;;;;;;;;2022-06-15;;;;;
+41;I;41I;No;410;150;260;16,81;Grön;20;20;20;No;2022;;1;0;;;;;;;;2022-06-15;;;;;
+41;J;41J;No;470;150;260;19,27;Rosa;30;30;30;No;2022;;4;3;;;;;;;;2022-06-15;;;;;
+41;L;41L;No;520;150;250;20,8;Grön;20;20;20;No;2022;;2;0;;;;;;;;2022-06-15;;;;;
+41;M;41M;No;470;150;250;18,8;Rosa;30;35;35;No;2022;;11;2;;;;;;;;2022-06-15;;;;;
+41;N;41N;No;460;150;140;13,34;Blå;10;15;15;No;2022;;6;5;;;;;;;;2022-06-15;;;;;
+41;O;41O;No;520;150;240;20,28;Grön;20;20;20;No;2022;;2;0;;;;;;;;2022-06-15;;;;;
+41;P;41P;No;500;150;240;19,5;Rosa;30;30;30;No;2022;;11;5;;;;;;;;2022-06-15;;;;;
+41;Q;41Q;No;460;150;240;17,94;Blå;10;10;10;No;2022;;2;0;;;;;;;;2022-06-15;;;;;
+41;R;41R;No;530;150;220;19,61;Grön;20;25;25;No;2022;;1;0;;;;;;;;2022-06-15;;;;;
+41;S;41S;No;460;150;220;17,02;Rosa;30;40;40;No;2022;;0;0;;;;;;;;2022-06-15;;Ingen hittad.;;;
+41;U;41U;No;490;150;200;17,15;Grön;20;20;20;No;2022;;1;0;;;;;;;;2022-06-15;;;;;
+41;Z;41Z;Yes;160;150;90;3,84;Blå;10;10;10;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgrävning.;;;
+42;B;42B;Yes;140;120;;1,68;Grön;10;20;20;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgräv;;;
+42;C;42C;No;500;120;80;10;Rosa;30;25;25;No;2022;;11;12;;;;;;;;2022-06-15;;;;;
+42;D;42D;No;500;210;300;25,5;Blå;10;10;10;No;2022;;13;19;;;;;;;;2022-06-15;;;;;
+42;E;42E;No;520;210;300;26,52;Grön;20;20;20;No;2022;;42;24;;;;;;;;2022-06-15;;;;;
+42;F;42F;No;500;210;280;24,5;Rosa;30;30;30;No;2022;;27;10;;;;;;;;2022-06-15;;;;;
+42;G;42G;No;480;230;230;22,08;Blå;10;15;15;No;2022;;25;11;;;;;;;;2022-06-15;;;;;
+42;H;42H;No;570;240;230;26,79;Grön;20;25;25;No;2022;;10;6;;;;;;;;2022-06-15;;;;;
+42;I;42I;No;520;220;260;24,96;Rosa;30;30;30;No;2022;;39;28;;;;;;;;2022-06-15;;;;;
+42;J;42J;No;450;220;220;19,8;Blå;10;10;10;No;2022;;6;3;;;;;;;;2022-06-15;;;;;
+42;K;42K;No;810;220;240;37,26;Grön;20;20;20;No;2022;;5;0;;;;;;;;2022-06-15;;;;;
+44;A;44A;No;370;200;230;15,91;Grön;20;20;20;No;2022;;22;21;;;;;;;;2022-06-15;;;;;
+44;B;44B;No;450;200;270;21,15;Blå;10;15;15;No;2022;;33;11;;;;;;;;2022-06-15;;;;;
+44;C;44C;No;440;200;270;20,68;Rosa;30;30;30;No;2022;;35;25;;;;;;;;2022-06-15;;;;;
+44;D;44D;No;490;200;300;24,5;Grön;20;25;25;No;2022;;20;11;;;;;;;;2022-06-15;;;;;
+44;E;44E;No;570;;450;25,65;Blå;10;15;15;No;2022;;5;1;;;;;;;;2022-06-15;;;;;
+45;B;45B;No;370;60;270;12,21;Grön;20;20;20;No;2022;;10;4;;;;;;;;2022-06-15;;;;;
+45;C;45C;Yes;420;60;330;16,38;Rosa;30;35;35;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgräv.;;;
+46;B;46B;No;440;220;240;20,24;Blå;10;15;15;No;2022;;30;18;;;;;;;;2022-06-15;;;;;
+46;C;46C;No;460;220;240;21,16;Grön;20;25;25;No;2022;;24;9;;;;;;;;2022-06-15;;;;;
+46;D;46D;No;490;220;240;22,54;Rosa;30;35;35;No;2022;;28;7;;;;;;;;2022-06-15;;;;;
+46;E;46E;No;580;220;240;26,68;Blå;10;15;15;No;2022;;37;19;;;;;;;;2022-06-15;;;;;
+46;F;46F;No;470;220;240;21,62;Grön;20;25;25;No;2022;;41;14;;;;;;;;2022-06-15;;;;;
+46;G;46G;No;480;220;250;22,56;Rosa;30;35;35;No;2022;;38;20;;;;;;;;2022-06-15;;;;;
+46;H;46H;No;580;220;250;27,26;Blå;10;10;10;No;2022;;39;5;;;;;;;;2022-06-15;;;;;
+47;;47;No;1400;220;220;61,6;Rosa;30;35;35;No;2022;;33;10;;;;;;;;2022-06-15;;1 st bakom.;;;
+102;;102;Yes;120;;130;1,56;Grön;20;;20;No;2022;;1;1;;;;;;;;2022-06-15;;Ny yta, mellan 47 och 48, punktgräv;;;
+48;;48;No;810;200;260;37,26;Blå;10;25;25;No;2022;;34;35;;;;;;;;2022-06-15;;13 stora bakom.;;;
+49;A;49A;Yes;170;70;130;3,4;Grön;20;20;20;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgrävning.;;;
+49;B;49B;Yes;210;110;110;4,62;Grön;20;20;20;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgrävning.;;;
+50;;50;Yes;180;90;90;3,24;Blå;10;10?;10;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgrävning.;;;
+51;;51;Yes;170;;190;3,23;Blå;10;10?;10;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgrävning.;;;
+52;A;52A;No;450;200;220;18,9;Rosa;30;25;25;No;2022;;7;1;;;;;;;;2022-06-15;;;;;
+52;B;52B;Yes;170;160;;2,72;Blå;10;10;10;No;2022;;1;0;;;;;;;;2022-06-15;;Punktgrävning.;;;
+53;A;53A;No;440;210;220;18,92;Rosa;30;30;30;No;2022;;12;7;;;;;;;;2022-06-15;;;;;
+53;B;53B;No;700;210;220;30,1;Blå;10;10;10;No;2022;;16;0;;;;;;;;2022-06-15;;;;;
+53;C;53C;No;180;90;90;3,24;Grön;20;20;20;No;2022;;2;0;;;;;;;;2022-06-15;;Ej i karta.;;;
+54;;54;No;380;170;260;16,34;Blå;10;10;10;No;2022;;7;5;;;;;;;;2022-06-15;;;;;
+3;;3;Yes;100;100;100;2;Grön;20;20-25;22,5;No;2024;0;0;0;0;0;0;0;4;0;4;;;Det låg en lös planta bredvid. Nån som redan plockat bort ur ytan?;;;
+4;;4;Yes;100;100;100;2;Grön;20;25;25;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+5;;5;No;830;100;400;41,5;Blå;10;15-okt;12,5;No;2024;501;5;18;4;9;5;10;60;11;69;;;;;;
+7;A;7A;No;510;200;300;25,5;Blå;10;17-okt;13,5;No;2024;24;1;0;2;3;4;2;0;1;6;;;;;;
+7;B;7B;No;360;200;400;21,6;Grön;20;20;20;No;2024;1;0;0;1;2;1;1;0;0;2;;;;;;
+8;A;8A;No;400;200;200;16;Grön;20;18;18;Yes;2024;0;1;1;2;1;0;0;2;4;4;;;;;;
+8;C;8C;No;500;200;140;17;Blå;10;12;12;No;2024;0;0;0;0;0;0;1;1;0;1;;;;;;
+8;D;8D;No;470;200;150;16,45;Grön;20;20;20;No;2024;0;0;0;;;1;1;1;2;2;;;;;;
+8;E;8E;No;570;200;150;19,95;Rosa;30;30;30;No;2024;0;0;1;;;1;3;0;1;1;;;;;;
+8;F;8F;No;500;200;150;17,5;Blå;10;15;15;No;2024;0;0;0;;;0;4;2;1;2;;;;;;
+8;G;8G;No;500;200;150;17,5;Grön;20;20;20;Yes;2024;1;0;0;;;0;2;0;0;0;;;;;;
+8;H;8H;No;500;200;150;17,5;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+8;I;8I;No;270;100;100;5,4;Blå;10;12;12;No;2024;1;0;0;2;1;0;0;2;1;4;;;;;;
+9;;9;No;860;100;300;34,4;Rosa;30;30;30;No;2024;3;0;0;0;0;0;0;60;100;60;;;;;;
+10;A;10A;No;450;200;200;18;Rosa;30;30;30;No;2024;4;0;1;0;1;0;1;5;6;5;;;;;;
+10;B;10B;No;300;200;100;9;Blå;10;14;14;No;2024;2;0;0;;;0;0;1;0;1;;;;;;
+11;;11;Yes;100;100;100;2;Rosa;30;30;30;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+12;B;12B;No;570;230;300;30,21;Blå;10;10;10;No;2024;300;0;0;5;3;0;0;30;11;35;;;;;;
+12;C;12C;No;570;200;500;39,9;Rosa;30;28;28;No;2024;20;0;0;0;0;0;0;5;2;5;;;;;;
+12;E;12E;No;560;160;240;22,4;Rosa;30;30;30;No;2024;10;0;0;1;0;0;0;12;7;13;;;;;;
+13;A;13A;No;610;200;220;25,62;Blå;10;10;10;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+13;B;13B;No;620;200;200;24,8;Grön;20;20;20;No;2024;0;0;1;1;0;0;0;0;1;1;;;;;;
+13;F;13F;No;540;210;310;28,08;Rosa;30;30;30;Yes;2024;25;0;0;0;0;0;0;1;0;1;;;;;;
+13;G;13G;No;500;210;310;26;Blå;10;10;10;Yes;2024;0;0;0;;;0;0;0;1;0;;;;;;
+13;H;13H;No;740;210;310;38,48;Grön;20;20;20;No;2024;0;0;0;0;0;0;0;1;2;1;;;;;;
+14;;14;No;580;170;140;17,98;Blå;10;10;10;No;2024;0;0;0;0;1;0;0;0;0;0;;;;;;
+15;;15;No;280;120;100;6,16;Rosa;30;27;27;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+18;;18;Yes;280;130;80;5,88;Grön;20;20;20;No;2024;0;0;0;0;0;0;0;0;0;0;;;Kantskrapat;;;
+19;A;19A;No;500;240;110;17,5;Rosa;30;30;30;No;2024;0;0;0;0;0;0;0;1;0;1;;;Kantskrapat;;;
+19;B;19B;No;320;240;180;13,44;Grön;20;20;20;No;2024;0;0;0;1;1;0;0;0;0;1;;;Kantskrapat;;;
+19;D;19D;No;530;230;100;17,49;Grön;20;20;20;No;2024;0;0;0;1;0;0;0;0;0;1;;;Kantskrapat;;;
+19;E;19E;No;640;230;110;21,76;Rosa;30;30;30;No;2024;0;0;0;0;0;0;0;1;0;1;;;Kantskrapat;;;
+19;G;19G;No;700;170;150;22,4;Grön;20;20;20;No;2024;0;0;0;0;0;0;0;0;0;0;;;Kantskrapat;;;
+19;J;19J;No;630;170;200;23,31;Blå;10;10;10;No;2024;0;0;0;1;0;0;0;0;0;1;;;Kantskrapat;;;
+19;K;19K;No;460;170;170;15,64;Grön;20;20;20;No;2024;0;0;0;;;0;0;0;1;0;;;Kantskrapat;;;
+19;L;19L;No;620;170;230;24,8;Rosa;30;30;30;No;2024;0;0;0;0;0;0;0;0;1;0;;;Kantskrapat;;;
+19;M;19M;Yes;100;50;50;1;Grön;20;20;20;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+20;;20;Yes;200;50;50;2;Grön;20;20;20;No;2024;0;0;0;1;0;0;4;0;0;1;;;Kantskrapat, dikat innan och efter;;;
+21;;21;Yes;290;0;130;3,77;Blå;10;10;10;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+22;;22;Yes;190;100;;1,9;Rosa;30;30;30;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+24;;24;No;770;140;150;22,33;Rosa;30;30;30;No;2024;0;0;0;0;0;0;0;0;0;0;;;Kantskrapat, dikat innan och efter;;;
+25;;25;Yes;100;100;;1;Grön;20;20;20;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+26;;26;Yes;100;100;;1;Blå;10;10;10;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+27;A;27A;Yes;100;100;0;1;Grön;20;20;20;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+27;B;27B;No;360;150;120;9,72;Rosa;30;30;30;Yes;2024;0;0;0;1;0;0;0;0;0;1;;;Kantskrapat;;;
+27;C;27C;No;500;150;110;13;Blå;10;10;10;Yes;2024;1;0;3;7;10;0;0;0;0;7;;;Kantskrapat;;;
+28;A;28A;No;450;220;100;14,4;Rosa;30;30;30;Yes;2024;0;0;0;5;6;0;0;2;3;7;;;;;;
+28;B;28B;No;540;220;100;17,28;Blå;10;10;10;No;2024;150;0;0;;;0;0;7;11;7;;;;;;
+28;C;28C;No;590;220;100;18,88;Grön;20;20;20;No;2024;400;1;4;;;0;0;20;51;20;;;;;;
+28;D;28D;No;350;220;100;11,2;Rosa;30;30;30;No;2024;200;0;3;;;0;0;50;51;50;;;;;;
+28;E;28E;No;440;220;100;14,08;Blå;10;10;10;No;2024;100;3;8;4;7;0;0;23;21;27;;;;;;
+29;A;29A;No;550;180;230;22,55;Blå;10;15;15;No;2024;1;3;4;0;1;0;0;1;0;1;;;;;;
+29;B;29B;No;460;180;410;27,14;Grön;20;25;25;No;2024;0;0;0;;;0;0;2;2;2;;;;;;
+29;C;29C;No;500;180;410;29,5;Rosa;30;35;35;No;2024;0;0;0;;;0;0;3;2;3;;;;;;
+29;D;29D;No;520;180;410;30,68;Blå;10;10;10;No;2024;0;0;0;;;0;0;1;1;1;;;;;;
+29;E;29E;No;530;180;410;31,27;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+29;F;29F;No;480;180;410;28,32;Grön;20;20;20;No;2024;0;0;0;;;0;0;1;0;1;;;;;;
+29;G;29G;No;470;180;270;21,15;Blå;10;10;10;No;2024;0;0;0;0;0;0;0;2;0;2;;;;;;
+30;A;30A;No;600;270;200;28,2;Grön;20;20-25;22,5;No;2024;1000;6;8;3;5;0;0;40;51;43;;;;;;
+30;B;30B;No;440;270;200;20,68;Blå;10;10;10;No;2024;2000;10;23;;;0;0;50;51;50;;;;;;
+30;C;30C;No;450;270;200;21,15;Grön;20;20;20;No;2024;700;11;22;;;0;0;50;51;50;;;;;;
+30;D;30D;No;450;270;200;21,15;Rosa;30;30;30;No;2024;200;13;10;;;0;0;20;5;20;;;;;;
+30;E;30E;No;330;270;200;15,51;Blå;10;10;10;No;2024;40;1;1;1;0;0;0;8;20;9;;;Kantskrapat och dikat på ena sidan;;;
+31;A;31A;No;500;250;200;22,5;Grön;20;20;20;No;2024;0;0;0;3;2;0;0;1;0;4;;;;;;
+31;B;31B;No;550;250;200;24,75;Rosa;30;35;35;No;2024;25;0;0;;;0;0;2;3;2;;;;;;
+31;C;31C;No;500;250;200;22,5;Blå;10;25;25;No;2024;23;0;0;;;0;0;1;5;1;;;;;;
+31;D;31D;No;370;400;200;22,2;Grön;20;25;25;No;2024;43;0;0;;;0;0;4;3;4;;;;;;
+31;E;31E;No;610;220;170;23,79;Rosa;30;40;40;No;2024;300;1;0;;;0;0;4;3;4;;;;;;
+31;F;31F;No;520;220;170;20,28;Blå;10;10;10;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+31;G;31G;No;440;220;260;21,12;Rosa;30;30;30;No;2024;0;0;0;1;0;0;0;0;0;1;;;;;;
+32;A;32A;No;470;140;120;12,22;Rosa;30;30;30;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+32;B;32B;No;470;140;120;12,22;Grön;20;20;20;Yes;2024;3;0;0;;;1;0;0;0;1;;;;;;
+32;C;32C;No;500;170;150;16;Blå;10;15;15;No;2024;160;0;0;;;0;0;9;3;9;;;;;;
+32;D;32D;No;480;170;150;15,36;Rosa;30;40;40;No;2024;150;0;0;;;0;0;4;0;4;;;;;;
+32;E;32E;No;490;170;150;15,68;Grön;20;25;25;No;2024;2;0;0;;;0;0;0;0;0;;;;;;
+32;F;32F;No;500;170;150;16;Blå;10;15;15;No;2024;1;0;0;;;0;0;0;0;0;;;;;;
+32;G;32G;No;510;170;220;19,89;Rosa;30;35;35;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+32;H;32H;No;500;170;280;22,5;Grön;20;20;20;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+33;A;33A;No;480;170;280;21,6;Blå;10;10;10;No;2024;1;0;0;;;0;0;0;0;0;;;;;;
+33;B;33B;No;470;170;280;21,15;Grön;20;20;20;No;2024;7;2;0;;;0;0;5;5;5;;;;;;
+33;C;33C;No;430;170;250;18,06;Rosa;30;35;35;No;2024;140;0;0;1;2;0;0;4;2;5;;;;;;
+35;A;35A;No;450;230;230;20,7;Grön;20;20;20;No;2024;40;6;10;6;10;0;0;6;4;12;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+35;B;35B;No;460;230;230;21,16;Rosa;30;40;40;No;2024;1500;6;6;;;0;0;25;26;25;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+35;C;35C;No;520;230;230;23,92;Blå;10;15;15;No;2024;50;2;0;;;0;0;4;5;4;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+35;D;35D;No;510;230;230;23,46;Grön;20;25;25;No;2024;5;0;0;;;0;0;3;10;3;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+35;E;35E;No;730;230;190;30,66;Rosa;30;35;35;No;2024;0;0;0;0;0;0;0;0;0;0;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+37;D;37D;No;490;250;160;20,09;Blå;10;10;10;No;2024;0;0;0;0;0;0;0;10;20;10;;;;;;
+37;E;37E;No;990;250;70;31,68;Rosa;30;30;30;No;2024;2;0;0;0;1;0;0;2;3;2;;;;;;
+39;;39;No;490;210;160;18,13;Rosa;30;30;30;No;2024;8;0;0;0;0;0;0;2;0;2;;;;;;
+40;;40;No;930;190;200;36,27;Grön;20;25;25;No;2024;85;1;0;;;0;0;20;31;20;;;;;;
+41;A;41A;No;500;150;300;22,5;Rosa;30;30;30;No;2024;130;0;0;;;0;0;5;10;5;;;;;;
+41;B;41B;No;500;150;300;22,5;Blå;10;10;10;No;2024;120;6;4;;;5;2;4;5;9;;;;;;
+41;C;41C;No;550;150;330;26,4;Grön;20;15;15;No;2024;2;1;0;;;1;0;0;4;1;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;D;41D;No;550;150;250;22;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;2;0;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;E;41E;No;500;150;250;20;Blå;10;10;10;No;2024;0;0;0;;;0;0;0;1;0;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;F;41F;No;440;150;250;17,6;Grön;20;25;25;No;2024;0;0;0;;;0;0;0;0;0;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;G;41G;No;520;150;250;20,8;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;0;0;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;H;41H;No;430;150;260;17,63;Blå;10;10;10;No;2024;0;0;0;;;0;0;0;0;0;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;I;41I;No;410;150;260;16,81;Grön;20;20;20;No;2024;0;0;0;;;0;0;0;0;0;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;J;41J;No;470;150;260;19,27;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;0;0;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;L;41L;No;520;150;250;20,8;Grön;20;20;20;No;2024;0;0;0;;;1;0;0;0;1;;;Viss störning i ytorna pga intilliggande skogsavverkning och traktorkörning genom ytorna;;;
+41;M;41M;No;470;150;250;18,8;Rosa;30;35;35;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+41;N;41N;No;460;150;140;13,34;Blå;10;15;15;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+41;O;41O;No;520;150;240;20,28;Grön;20;20;20;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+41;P;41P;No;500;150;240;19,5;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+41;Q;41Q;No;460;150;240;17,94;Blå;10;10;10;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+41;R;41R;No;530;150;220;19,61;Grön;20;25;25;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+41;S;41S;No;460;150;220;17,02;Rosa;30;40;40;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+41;U;41U;No;490;150;200;17,15;Grön;20;20;20;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+41;Z;41Z;Yes;160;150;90;3,84;Blå;10;10;10;No;2024;2;0;0;2;3;0;0;0;0;2;;;;;;
+42;B;42B;Yes;140;120;;1,68;Grön;10;20;20;No;2024;0;0;0;0;0;0;0;0;0;0;;;Oklart var ytan låg exakt, men det fanns iaf inga lupiner;;;
+42;C;42C;No;500;120;80;10;Rosa;30;25;25;No;2024;0;0;0;0;0;0;0;2;2;2;;;;;;
+42;D;42D;No;500;210;300;25,5;Blå;10;10;10;No;2024;2;5;9;;;0;0;12;11;12;;;;;;
+42;E;42E;No;520;210;300;26,52;Grön;20;20;20;No;2024;3;0;0;;;0;0;1;0;1;;;;;;
+42;F;42F;No;500;210;280;24,5;Rosa;30;30;30;No;2024;0;1;0;;;0;1;0;0;0;;;;;;
+42;G;42G;No;480;230;230;22,08;Blå;10;15;15;No;2024;0;3;0;;;0;2;0;0;0;;;;;;
+42;H;42H;No;570;240;230;26,79;Grön;20;25;25;No;2024;0;0;0;;;0;1;0;0;0;;;;;;
+42;I;42I;No;520;220;260;24,96;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;0;0;;;;;;
+42;J;42J;No;450;220;220;19,8;Blå;10;10;10;No;2024;0;1;0;;;0;0;0;0;0;;;;;;
+42;K;42K;No;810;220;240;37,26;Grön;20;20;20;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+44;A;44A;No;370;200;230;15,91;Grön;20;20;20;No;2024;0;0;0;0;0;0;0;1;3;1;;;Kantskrapat;;;
+44;B;44B;No;450;200;270;21,15;Blå;10;15;15;No;2024;0;0;0;;;0;0;3;1;3;;;Kantskrapat;;;
+44;C;44C;No;440;200;270;20,68;Rosa;30;30;30;No;2024;0;0;0;;;0;0;0;6;0;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+44;D;44D;No;490;200;300;24,5;Grön;20;25;25;No;2024;0;0;0;;;0;0;1;1;1;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+44;E;44E;No;570;;450;25,65;Blå;10;15;15;No;2024;0;0;0;0;0;0;0;0;0;0;;;Kantskrapat;;;
+45;B;45B;No;370;60;270;12,21;Grön;20;20;20;No;2024;0;0;0;0;0;0;0;0;0;0;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+45;C;45C;Yes;420;60;330;16,38;Rosa;30;35;35;No;2024;0;0;0;0;2;0;0;0;0;0;;;Kantskrapat, delar av ytan täckt av skrapmassor;;;
+46;B;46B;No;440;220;240;20,24;Blå;10;15;15;No;2024;0;0;0;0;0;0;0;0;0;0;;;Kantskrapat;;;
+46;C;46C;No;460;220;240;21,16;Grön;20;25;25;No;2024;0;0;0;;;0;0;0;0;0;;;Kantskrapat;;;
+46;D;46D;No;490;220;240;22,54;Rosa;30;35;35;No;2024;0;0;0;;;0;0;1;0;1;;;Kantskrapat;;;
+46;E;46E;No;580;220;240;26,68;Blå;10;15;15;No;2024;0;5;0;;;0;0;1;1;1;;;Kantskrapat;;;
+46;F;46F;No;470;220;240;21,62;Grön;20;25;25;No;2024;0;0;0;;;0;0;2;5;2;;;Kantskrapat;;;
+46;G;46G;No;480;220;250;22,56;Rosa;30;35;35;No;2024;0;0;0;;;0;0;2;7;2;;;Kantskrapat;;;
+46;H;46H;No;580;220;250;27,26;Blå;10;10;10;No;2024;11;1;0;1;2;0;0;0;0;1;;;Kantskrapat;;;
+47;;47;No;1400;220;220;61,6;Rosa;30;35;35;No;2024;60;4;2;3;0;0;0;5;0;8;;;Kantskrapat;;;
+102;;102;Yes;120;;130;1,56;Grön;20;;20;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+48;;48;No;810;200;260;37,26;Blå;10;25;25;No;2024;15;0;0;10;30;0;0;30;21;40;;;Kantskrapat;;;
+49;A;49A;Yes;170;70;130;3,4;Grön;20;20;20;No;2024;50;0;0;10;10;2;1;0;0;12;;;Kantskrapat;;;
+49;B;49B;Yes;210;110;110;4,62;Grön;20;20;20;No;2024;15;0;0;10;50;1;0;0;0;11;;;;;;
+50;;50;Yes;180;90;90;3,24;Blå;10;10?;10;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+51;;51;Yes;170;;190;3,23;Blå;10;10?;10;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+52;A;52A;No;450;200;220;18,9;Rosa;30;25;25;No;2024;2;0;0;1;0;0;0;0;0;1;;;Kantskrapat, dikat innan och efter;;;
+52;B;52B;Yes;170;160;;2,72;Blå;10;10;10;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+53;A;53A;No;440;210;220;18,92;Rosa;30;30;30;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+53;B;53B;No;700;210;220;30,1;Blå;10;10;10;No;2024;0;0;0;0;0;0;0;0;0;0;;;;;;
+53;C;53C;No;180;90;90;3,24;Grön;20;20;20;No;2024;Ej inventerat pga för stor störning;;;;;;;;;0;;;Kantskrapat och dikat;;;
+54;;54;No;380;170;260;16,34;Blå;10;10;10;No;2024;0;0;0;1;3;0;0;0;0;1;;;;;;
